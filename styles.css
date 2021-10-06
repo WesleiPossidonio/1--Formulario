@@ -1,0 +1,88 @@
+
+*{
+    font-family: 'Nunito', sans-serif;
+}
+
+.container {
+    border: 1px solid black;
+    padding: 10px;
+    margin-top: 20px;
+    background-color: #F2E9D8;
+    border-color: #35400C ;
+
+}
+
+.text-form {
+    position: absolute;
+    font-size: 16px;
+    font-weight: 250;
+    top: -3px;
+    background-color: #fff;
+    padding: 0 4px;
+}
+
+label {
+    display: block;
+    color:#A69B63;
+    font-size: 20px;
+}
+
+input {
+    margin-bottom: 18px;
+    border-color: #354000;
+    
+}
+
+
+
+.social-networks {
+    display: inline;
+    border-color: #354000;
+}
+   
+.sex {
+    display: inline;
+    border-color: #354000;
+}
+
+.biography {
+    display: block;
+    margin-bottom: 18px;
+    border-color: #354000;
+}
+
+.add-pic {
+    display: block;
+    margin-bottom: 18px;
+}
+
+.add-tel {
+    display: block;
+    margin-bottom: 18px;
+}
+
+.add-link {
+    display: block;
+    margin-bottom: 18px;
+}
+
+.password {
+    display: block;
+    margin-bottom: 18px;
+}
+
+button {
+    cursor: pointer;
+    margin-right: 6px;
+}
+
+button:hover {
+    background-color: #35400C;
+    border-radius: 4px;
+    color: #fff;
+    border-color: #35400C;
+    -webkit-transform:scale(1.2); 
+    -moz-transform:scale(1.2); 
+    -o-transform:scale(1.2);
+    transform:scale(1.2);
+}
